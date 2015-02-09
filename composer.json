@@ -1,0 +1,22 @@
+{
+    "name": "components/flexslider",
+    "type": "component",
+    "require": {
+        "robloach/component-installer": "*"
+    },
+    "extra": {
+        "component": {
+            "scripts": [
+                "jquery.flexslider.js",
+                "jquery.flexslider-min.js"
+            ],
+            "styles": [
+                "flexslider.css"
+            ],
+            "files": [
+                "fonts/*",
+                "images/*"
+            ]
+        }
+    }
+}
